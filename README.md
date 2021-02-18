@@ -25,13 +25,13 @@ Actual time needed to complete: 15 minutes
 
 #### Feature #2: Refactor the CSS
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 minutes
 
-Start time: _____
+Start time: 11:00pm
 
-Finish time: _____
+Finish time: 11:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 minutes
 
 
 #### Feature #3: Modify the contents
