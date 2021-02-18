@@ -1,2 +1,56 @@
-# portfolio
-This repository is for Code 301 lab 05: Heroku Deployment
+# Lab: 05 - Deploy & Extend Your Portfolio
+
+## Portfolio - 18-2-2021
+
+This is my first time using Heroku server for deployment
+
+### Author: Afnan Damra
+
+### Links and Resources
+* [submission PR](http://xyz.com)
+* Any Links you used as reference
+
+### Reflections and Comments
+
+#### Feature #1: Deployment
+
+Estimate of time needed to complete: 15 minutes
+
+Start time: 10:15pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+#### Feature #2: Refactor the CSS
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+#### Feature #3: Modify the contents
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+#### Feature #4: Add functionality
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
