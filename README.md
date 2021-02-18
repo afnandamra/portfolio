@@ -18,9 +18,9 @@ Estimate of time needed to complete: 15 minutes
 
 Start time: 10:15pm
 
-Finish time: _____
+Finish time: 10:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 15 minutes
 
 
 #### Feature #2: Refactor the CSS
