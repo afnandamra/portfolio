@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Portfolio - 18-2-2021",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -12,5 +12,13 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afnandamra/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afnandamra/portfolio/issues"
+  },
+  "homepage": "https://github.com/afnandamra/portfolio#readme"
 }
