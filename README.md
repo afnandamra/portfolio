@@ -8,7 +8,7 @@ This is my first time using Heroku server for deployment
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* Any Links you used as reference
+* [Deployed Site](https://afnandamra.herokuapp.com/)
 
 ### Reflections and Comments
 
@@ -25,32 +25,32 @@ Actual time needed to complete: 15 minutes
 
 #### Feature #2: Refactor the CSS
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 minutes
 
-Start time: _____
+Start time: 11:00pm
 
-Finish time: _____
+Finish time: 11:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 minutes
 
 
 #### Feature #3: Modify the contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 4:00pm
 
-Finish time: _____
+Finish time: 7:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour and 30 minutes
 
 
 #### Feature #4: Add functionality
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 15 minutes
 
-Start time: _____
+Start time: 7:45pm
 
-Finish time: _____
+Finish time: 8:00pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 15 minutes
