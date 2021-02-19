@@ -7,7 +7,7 @@ This is my first time using Heroku server for deployment
 ### Author: Afnan Damra
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/afnandamra/portfolio/pull/2)
 * [Deployed Site](https://afnandamra.herokuapp.com/)
 
 ### Reflections and Comments
